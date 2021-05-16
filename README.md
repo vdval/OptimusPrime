@@ -1,8 +1,9 @@
 # OptimusPrime
 
-Un projet de site internet avec des langages choisis
+https://vdval.eu/OptimusPrime/
 
 Le sujet est Optimus Prime
 
-Le framework css choisi est Tailwind
+Le framework css choisi est Tailwind, sur lien dans l'index
 
+https://vdval.eu/OptimusPrime/
